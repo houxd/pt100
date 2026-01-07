@@ -1,0 +1,18 @@
+[package]
+name = "pt100"
+version = "0.0.1"
+edition = "2021"
+description = "A Rust library for PT100 temperature sensor calculations"
+license = "MIT"
+repository = "https://github.com/houxd/pt100"
+homepage = "https://github.com/houxd/pt100"
+documentation = "https://docs.rs/pt100"
+keywords = ["pt100", "temperature", "sensor", "calculation"]
+categories = ["science", "embedded-programming"]
+authors = ["houxd.g@gmail.com"]
+exclude = ["examples/*", "tests/*", ".github/*", "*.log"]
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
