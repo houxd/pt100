@@ -8,7 +8,7 @@ repository = "https://github.com/houxd/pt100"
 homepage = "https://github.com/houxd/pt100"
 documentation = "https://docs.rs/pt100"
 keywords = ["pt100", "temperature", "sensor", "calculation"]
-categories = ["science", "embedded-programming"]
+categories = ["science", "embedded"]
 authors = ["houxd.g@gmail.com"]
 exclude = ["examples/*", "tests/*", ".github/*", "*.log"]
 
