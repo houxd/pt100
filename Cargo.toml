@@ -1,6 +1,6 @@
 [package]
 name = "pt100"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "A Rust library for PT100 temperature sensor calculations"
 license = "MIT"
